@@ -8,7 +8,7 @@ import pandas as pd
 import pickle
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
-#from sklearn.externals import joblib
+from sklearn.externals import joblib
 import pickle
 
 
@@ -39,31 +39,4 @@ def predict():
 if __name__ == '__main__':
 	app.run(debug=True)        
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-    
-    
-    
-    
-    
-    
-    
-    
-    
+  
