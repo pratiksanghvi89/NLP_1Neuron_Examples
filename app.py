@@ -8,7 +8,7 @@ import pandas as pd
 import pickle
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
-import scikit-learn
+import sklearn
 import joblib
 import pickle
 
