@@ -15,7 +15,7 @@ message = pd.read_csv("D:\\Learn & Projects\\Data Science Extra\\Coding\\NLP\\Sp
 #Data cleaning / Data preprocessing
 import re
 import nltk
-#nltk.download('stopwords')
+nltk.download('stopwords')
 
 
 from nltk.corpus import stopwords
